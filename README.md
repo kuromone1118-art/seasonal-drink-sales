@@ -1,47 +1,28 @@
 
 # Seasonal Drink Sales Analysis
 
-## 1. Project Overview
+## Overview
 This project analyzes fictional seasonal drink sales data using Python.
 
-The purpose is to understand sales trends and explore how promotional activities, weekdays, and temperature may relate to seasonal drink sales.
+The purpose is to understand sales trends and identify factors that may influence seasonal drink performance.
 
-## 2. Data
-The dataset is fictional and generated using Python for educational and portfolio purposes.
+## Analysis
+- Total sales by product
+- Daily sales trends
+- Average sales by promotion
+- Comparison of seasonal drink performance
+- Identification of best-selling products and days
 
-It includes:
-- Sales date
-- Product name
-- Product price
-- Number of cups sold
-- Promotional activity
-- Temperature
-- Total sales amount
-
-## 3. Analysis
-The following analyses are conducted:
-
-1. Sales volume comparison by product
-2. Daily sales trend analysis
-3. Weekday vs. weekend sales comparison
-4. Promotional vs. non-promotional sales comparison
-
-## 4. Tools
+## Tools Used
 - Python
 - pandas
-- NumPy
-- Matplotlib
+- matplotlib
 
-## 5. Expected Insights
-This analysis explores:
-- Which seasonal drink has the highest sales volume
-- Whether sales differ between weekdays and weekends
-- How sales patterns differ when promotions are conducted
-- Whether temperature may be associated with product sales
+## Files
+- sales_analysis.py: Python script for data analysis and visualization
+- README.md: Project description
 
-## 6. Limitations
-All data in this project is fictional.
-The results do not represent actual Starbucks sales or prove causal relationships.
+## Purpose
+This project demonstrates basic data analysis skills and the ability to interpret sales data to identify business insights.
 
-## 7. Author
-GitHub: kuromone1118-art
+*Note: All data used in this project is fictional.*
